@@ -33,3 +33,5 @@ plugins:
   - jekyll-include-cache
 
 permalink: pretty
+
+theme: jekyll-theme-cayman
